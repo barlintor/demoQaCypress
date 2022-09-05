@@ -1,0 +1,20 @@
+{
+  "name": "demoqa",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas de la pagina de DemoQa.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "cypress",
+    "demoqa"
+  ],
+  "author": "Benny",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  }
+}
